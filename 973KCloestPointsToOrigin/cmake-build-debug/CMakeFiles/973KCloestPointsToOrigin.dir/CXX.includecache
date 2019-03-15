@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eric/Desktop/Practice/Cplusplus/973KCloestPointsToOrigin/main.cpp
+iostream
+-
+vector
+-
+unordered_map
+-
+

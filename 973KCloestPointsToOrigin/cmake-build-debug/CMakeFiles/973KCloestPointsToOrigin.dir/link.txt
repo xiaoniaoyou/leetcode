@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/973KCloestPointsToOrigin.dir/main.cpp.o  -o 973KCloestPointsToOrigin 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/IsomorphicStrings.dir/main.cpp.o  -o IsomorphicStrings 

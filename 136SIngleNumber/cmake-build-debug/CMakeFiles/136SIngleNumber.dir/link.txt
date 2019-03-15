@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/136SIngleNumber.dir/main.cpp.o  -o 136SIngleNumber 

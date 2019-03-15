@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/DesignLinkedList.dir/main.cpp.o  -o DesignLinkedList 

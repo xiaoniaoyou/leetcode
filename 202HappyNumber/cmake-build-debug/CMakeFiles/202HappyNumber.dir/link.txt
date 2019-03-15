@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/202HappyNumber.dir/main.cpp.o  -o 202HappyNumber 

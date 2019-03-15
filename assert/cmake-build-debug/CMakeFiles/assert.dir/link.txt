@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/assert.dir/main.cpp.o  -o assert 

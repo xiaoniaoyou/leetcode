@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/278FirstBadVersiion.dir/main.cpp.o  -o 278FirstBadVersiion 

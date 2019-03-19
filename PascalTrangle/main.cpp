@@ -70,13 +70,27 @@ void printRes(vector<vector<int>> &res) {
 }
 
 
+int fib(int N) {
+    if (N < 1) return 0;
+    if (N == 1) return 1;
+    int arr[N];
+    arr[0] = arr[1] = 1;
+    for (int i = 2; i < N; ++i) {
+        arr[i] = arr[i-1] + arr[i-2];
+    }
+    return arr[N-1];
+}
+
 int main() {
     std::cout << "Hello, World!" << std::endl;
     vector<vector<int>> test;
     Solution a;
     test = a.generate(10);
-    printRes(test);
+//    printRes(test);
 
+
+    int N = 6;
+    cout << fib(N) << endl;
 
     return 0;
 }

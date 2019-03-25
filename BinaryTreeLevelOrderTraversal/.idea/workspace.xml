@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="KthSymbolInGrammar" targetName="KthSymbolInGrammar" />
+      <config projectName="BinaryTreeLevelOrderTraversal" targetName="BinaryTreeLevelOrderTraversal" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dcb8c87-e14e-4fac-9efc-cd5dfe086dae" name="Default" comment="" />
+    <list default="true" id="ae0c9857-b8a7-41d2-ba80-2400f3589ed7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,27 +22,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/main.cpp" />
-      </list>
-    </option>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -54,8 +34,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="894" />
-    <option name="y" value="88" />
+    <option name="x" value="905" />
+    <option name="y" value="230" />
     <option name="width" value="1179" />
     <option name="height" value="992" />
   </component>
@@ -64,8 +44,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -85,12 +65,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.KthSymbolInGrammar">
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="KthSymbolInGrammar" RUN_TARGET_NAME="KthSymbolInGrammar" EXPLICIT_BUILD_TARGET_NAME="all" />
-    <configuration name="KthSymbolInGrammar" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="KthSymbolInGrammar" TARGET_NAME="KthSymbolInGrammar" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="KthSymbolInGrammar" RUN_TARGET_NAME="KthSymbolInGrammar" />
+  <component name="RunManager" selected="Application.BinaryTreeLevelOrderTraversal">
+    <configuration name="BinaryTreeLevelOrderTraversal" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BinaryTreeLevelOrderTraversal" TARGET_NAME="BinaryTreeLevelOrderTraversal" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BinaryTreeLevelOrderTraversal" RUN_TARGET_NAME="BinaryTreeLevelOrderTraversal" />
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all" />
     <list>
       <item itemvalue="Application.Build All" />
-      <item itemvalue="Application.KthSymbolInGrammar" />
+      <item itemvalue="Application.BinaryTreeLevelOrderTraversal" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -98,30 +78,29 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1dcb8c87-e14e-4fac-9efc-cd5dfe086dae" name="Default" comment="" />
-      <created>1552914535589</created>
+      <changelist id="ae0c9857-b8a7-41d2-ba80-2400f3589ed7" name="Default" comment="" />
+      <created>1553177060080</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1552914535589</updated>
-      <workItem from="1552914537327" duration="2356000" />
-      <workItem from="1553177013565" duration="45000" />
+      <updated>1553177060080</updated>
+      <workItem from="1553177062494" duration="599000" />
+      <workItem from="1553429921102" duration="351000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2401000" />
+    <option name="totallyTimeSpent" value="950000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="894" y="88" width="1179" height="992" extended-state="0" />
-    <editor active="true" />
+    <frame x="905" y="230" width="1179" height="992" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2541924" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2541924" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="CMake" order="7" />
       <window_info anchor="right" id="LuaJ" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32908458" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -130,7 +109,6 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32908458" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -141,27 +119,5 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

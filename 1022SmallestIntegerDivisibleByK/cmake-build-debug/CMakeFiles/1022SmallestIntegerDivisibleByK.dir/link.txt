@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1022SmallestIntegerDivisibleByK.dir/main.cpp.o  -o 1022SmallestIntegerDivisibleByK 
